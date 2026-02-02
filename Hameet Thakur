@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hameet Thakur - Gaming Influencer</title>
+    <meta name="description" content="Hameet Thakur: Gaming influencer from Haryana, India. Follow for Free Fire, BGMI, Genshin Impact, and Minecraft PE tips across @hameet_thakur, @itx_mit, and @Itx_badboy_2025.">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #000; color: #fff; }
+        header { background-color: #000; color: #fff; text-align: center; padding: 50px 20px; border-bottom: 2px solid #e1306c; }
+        .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+        .bio { text-align: center; margin-bottom: 30px; }
+        .follow { background-color: #111; padding: 20px; margin: 20px 0; border-radius: 10px; text-align: center; }
+        .follow h2 { color: #e1306c; }
+        .follow a { display: inline-block; margin: 10px; background-color: #e1306c; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+        .gallery { display: flex; flex-wrap: wrap; justify-content: center; }
+        .gallery img { width: 200px; height: 200px; margin: 10px; object-fit: cover; border-radius: 10px; border: 2px solid #fff; }
+        .gaming { background-color: #111; padding: 20px; margin: 20px 0; border-radius: 10px; }
+        .gaming h2 { color: #e1306c; }
+        .gaming ul { list-style: none; padding: 0; }
+        .gaming li { margin: 10px 0; }
+        .collaborations { background-color: #111; padding: 20px; margin: 20px 0; border-radius: 10px; }
+        .collaborations h2 { color: #e1306c; }
+        footer { text-align: center; padding: 20px; background-color: #000; color: #fff; border-top: 2px solid #e1306c; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hameet Thakur</h1>
+        <p>Gaming Influencer | Free Fire, BGMI, Genshin Impact, Minecraft PE</p>
+    </header>
+    <div class="container">
+        <div class="bio">
+            <p>Hey gamers! I'm Hameet Thakur from Barot village, Kaithal, Haryana, India. Passionate about gaming—dominating in Free Fire, BGMI, Genshin Impact, and Minecraft Pocket Edition multiplayer. Follow my Instagram for tips, highlights, and epic plays. Let's level up together! 🖤</p>
+        </div>
+        <div class="follow">
+            <h2>Follow My Accounts</h2>
+            <a href="https://www.instagram.com/hameet_thakur" target="_blank">Follow @hameet_thakur</a>
+            <a href="https://www.instagram.com/itx_mit" target="_blank">Follow @itx_mit</a>
+            <a href="https://www.instagram.com/Itx_badboy_2025" target="_blank">Follow @Itx_badboy_2025</a>
+        </div>
+        <h2>Latest Posts</h2>
+        <div class="gallery">
+            <!-- Replace with your actual Instagram post images (e.g., gaming screenshots) -->
+            <img src="https://via.placeholder.com/200" alt="Free Fire Win">
+            <img src="https://via.placeholder.com/200" alt="BGMI Squad">
+            <img src="https://via.placeholder.com/200" alt="Genshin Impact Adventure">
+            <img src="https://via.placeholder.com/200" alt="Minecraft Build">
+        </div>
+        <div class="gaming">
+            <h2>Gaming Highlights</h2>
+            <ul>
+                <li><strong>Free Fire:</strong> Battle royale pro—tips for squad wins and character builds.</li>
+                <li><strong>BGMI:</strong> Intense matches and rank climbing strategies.</li>
+                <li><strong>Genshin Impact:</strong> Exploring Teyvat, farming artifacts, and team comps.</li>
+                <li><strong>Minecraft Pocket Edition:</strong> Multiplayer worlds, redstone contraptions, and survival hacks.</li>
+            </ul>
+        </div>
+        <div class="collaborations">
+            <h2>Brand Collaborations</h2>
+            <p>Looking to collab with gaming brands, streamers, or sponsors? I create authentic content for gear, games, or events. Reach out!</p>
+            <form action="https://formspree.io/f/yourformid" method="POST"> <!-- Replace with your Formspree ID -->
+                <label for="email">Your Email:</label><br>
+                <input type="email" id="email" name="email" required style="width: 100%; padding: 10px; margin: 10px 0; background: #333; color: #fff; border: 1px solid #fff;"><br>
+                <label for="message">Message:</label><br>
+                <textarea id="message" name="message" required style="width: 100%; padding: 10px; margin: 10px 0; background: #333; color: #fff; border: 1px solid #fff;"></textarea><br>
+                <button type="submit" style="background-color: #e1306c; color: white; padding: 10px 20px; border: none; border-radius: 5px;">Send Inquiry</button>
+            </form>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2023 Hameet Thakur. All rights reserved.</p>
+    </footer>
+</body>
+</html>
